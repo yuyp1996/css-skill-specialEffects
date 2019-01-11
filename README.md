@@ -21,4 +21,4 @@ adaptiveTextarea(自适应文本框):
 
 demo
 
-https://qsued-teams.github.io/css-skill-specialEffects/dist/index.html
+https://yuyp1996.github.io/css-skill-specialEffects/dist/index.html#/index
