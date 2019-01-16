@@ -4,7 +4,8 @@
 
 import adaptiveTextarea from './adaptiveTextarea'
 import ballRotate from './ballrotate'
+import textEffect from  './textEffect'
 
 export default {
-  adaptiveTextarea, ballRotate
+  adaptiveTextarea, ballRotate, textEffect
 }

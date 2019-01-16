@@ -11,13 +11,13 @@ module.exports = {
     assetsSubDirectory: 'static',
     assetsPublicPath: '/',
     proxyTable: {
-      '/mapq': {
+      /*'/mapq': {
         target: 'https://api.waqi.info/',
         changeOrigin: true,
         pathRewrite: {
           '^/mapq': '/mapq'
         }
-      },
+      },*/
     },
 
     // Various Dev Server settings

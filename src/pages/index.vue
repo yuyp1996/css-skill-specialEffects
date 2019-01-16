@@ -4,6 +4,8 @@
     <v-adaptive-textarea class="g_textarea" :minHeight="60" v-model="ceshitextarea"></v-adaptive-textarea>
     <h4>3D旋转球</h4>
     <v-ball-rotate class="g-3d-rotate"></v-ball-rotate>
+    <h4 style="margin-top: 240px">文字边框特效</h4>
+    <v-text-effect></v-text-effect>
   </div>
 </template>
 
