@@ -1,9 +1,10 @@
-# location-weather-airQuality
-some skills and specail effects of css
+# some skills and specail effects of css
 
 adaptiveTextarea(自适应文本框)
 
 simulate 3D spinning ball (伪3D旋转小球)
+
+text effect(一些文字特效)
 
 # parameter
 
